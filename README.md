@@ -11,5 +11,6 @@ Installed libaries include
 * Numpy
 * Cassandra Driver
 * MySQL Connector
+* Requests
 
 For a complete list with version numbers see [base-requirements.txt](./base-requirements.txt)

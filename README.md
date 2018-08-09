@@ -10,5 +10,6 @@ Installed libaries include
 * Pandas
 * Numpy
 * Cassandra Driver
+* MySQL Connector
 
-For a complete list with version numbers see [requirements.txt](./requirements.txt)
+For a complete list with version numbers see [base-requirements.txt](./base-requirements.txt)
